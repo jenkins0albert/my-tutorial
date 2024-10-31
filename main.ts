@@ -1,0 +1,3 @@
+player.onTravelled(WALK, function () {
+	
+})
